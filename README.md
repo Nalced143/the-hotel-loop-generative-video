@@ -8,21 +8,13 @@ A young woman runs down a hotel corridor, her breath ragged. She reaches the end
 
 ## Genres
 
-<span style="display: inline-block; background-color: #ef4444; color: white; padding: 4px 12px; border-radius: 12px; font-size: 0.85em; font-weight: 500; margin-right: 6px;">Horror</span>
-<span style="display: inline-block; background-color: #d946ef; color: white; padding: 4px 12px; border-radius: 12px; font-size: 0.85em; font-weight: 500;">Suspense</span>
+<kbd style="background-color: #ef4444; color: white; padding: 4px 12px; border-radius: 12px; font-size: 0.85em; font-weight: 500; margin-right: 6px;">Horror</kbd>
+<kbd style="background-color: #d946ef; color: white; padding: 4px 12px; border-radius: 12px; font-size: 0.85em; font-weight: 500;">Suspense</kbd>
 
 ## Video
 
 View the video in the Story Foundation Portal:
 https://portal.story.foundation/assets/0x6f98141a06D41f118Da04E873a1D86a0eb4db311
-
-<!-- For YouTube videos, use this format instead:
-<iframe width="100%" height="450" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border-radius: 8px; max-width: 800px; display: block; margin: 0 auto;"></iframe>
--->
-
-<!-- For Vimeo videos, use this format instead:
-<iframe src="https://player.vimeo.com/video/VIDEO_ID" width="100%" height="450" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="border-radius: 8px; max-width: 800px; display: block; margin: 0 auto;"></iframe>
--->
 
 ## Photos
 
@@ -43,6 +35,9 @@ https://portal.story.foundation/assets/0x6f98141a06D41f118Da04E873a1D86a0eb4db31
 <p style="text-align: center; margin-top: 8px; font-size: 0.9em; color: #666;">Veo Flores - AI generated with Veo and Flow</p>
 
 ## Director
+
+**Ivan Molto** Full-stack Blockchain Engineer & Creator
+I was part of the team behind the first real ringtones ever created and one of the builders of the viral hit _iBeer_ app. Check my [website](https://www.ivanmolto.com) and [LinkedIn](https://www.linkedin.com/in/ivanmolt)
 
 ## Production
 
