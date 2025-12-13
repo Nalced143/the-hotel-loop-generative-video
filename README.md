@@ -39,7 +39,7 @@ https://portal.story.foundation/assets/0x6f98141a06D41f118Da04E873a1D86a0eb4db31
 
 ## Cast
 
-<img src="https://ivanmolto.mypinata.cloud/ipfs/bafybeibpm5hrreytcpdakgevwnecgisonhcaczbtxrr4bjkyw7e4b2nvvm" alt="Veo Flores" style="max-width: 100%; height: auto; border-radius: 8px; display: block; margin: 0 auto;" />
+<img src="https://ivanmolto.mypinata.cloud/ipfs/bafybeibpm5hrreytcpdakgevwnecgisonhcaczbtxrr4bjkyw7e4b2nvvm" alt="Veo Flores" style="max-width: 200px; width: 100%; height: auto; border-radius: 8px; display: block; margin: 0 auto;" />
 <p style="text-align: center; margin-top: 8px; font-size: 0.9em; color: #666;">Veo Flores - AI generated with Veo and Flow</p>
 
 ## Director
