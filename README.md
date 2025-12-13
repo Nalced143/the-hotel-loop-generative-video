@@ -39,7 +39,7 @@ https://portal.story.foundation/assets/0x6f98141a06D41f118Da04E873a1D86a0eb4db31
 ## Director
 
 **Ivan Molto** Full-stack Blockchain Engineer & Creator
-I was part of the team behind the first real ringtones ever created and one of the builders of the viral hit _iBeer_ app. Check my [website](https://www.ivanmolto.com) and [LinkedIn](https://www.linkedin.com/in/ivanmolt)
+I was part of the team behind the first real ringtones ever created and one of the builders of the viral hit _iBeer_ app. Check my [website](https://www.ivanmolto.com) and [LinkedIn](https://www.linkedin.com/in/ivanmolto)
 
 ## Production
 
