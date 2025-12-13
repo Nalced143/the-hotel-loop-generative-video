@@ -2,6 +2,8 @@
 
 ## Intro
 
+A 60+ second horror video submitted to the Generate Video Challenge (Horror Category) for the Surreal World Assets Buildathon by [Story Protocol](https://www.story.foundation/) at [Encode Club](https://www.encodeclub.com)
+
 ## Storyline
 
 A young woman runs down a hotel corridor, her breath ragged. She reaches the end, bursts through the double doors—and finds herself back at the start of the same hallway. Panic sets in. The lights flicker red, and the corridor...
